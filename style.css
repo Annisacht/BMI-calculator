@@ -18,7 +18,7 @@ body{
     justify-content: center;
     align-content: center;
     flex-direction: column;
-    border: solid 2px #ffffff;
+    border: solid 2px wheat;
     border-radius: 8px;
     padding: 50px;
 }
